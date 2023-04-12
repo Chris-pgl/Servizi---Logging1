@@ -1,0 +1,10 @@
+spring:
+  output:
+    ansi:
+      enabled: always
+logging:
+  level:
+    root: INFO
+    co.develhope.logging.services: DEBUG
+customVar1: 2
+customVar2: 8
